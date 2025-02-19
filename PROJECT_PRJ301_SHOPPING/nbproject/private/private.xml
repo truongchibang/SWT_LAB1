@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Nguyen%20Duc%20Tuan/OneDrive/Documents/NetBeansProjects/PROJECT_PRJ301_SHOPPING/web/css/login.css</file>
+            <file>file:/C:/Users/Nguyen%20Duc%20Tuan/OneDrive/Documents/NetBeansProjects/PROJECT_PRJ301_SHOPPING/web/Login.jsp</file>
+            <file>file:/C:/Users/Nguyen%20Duc%20Tuan/OneDrive/Documents/NetBeansProjects/PROJECT_PRJ301_SHOPPING/web/Detail.jsp</file>
+            <file>file:/C:/Users/Nguyen%20Duc%20Tuan/OneDrive/Documents/NetBeansProjects/PROJECT_PRJ301_SHOPPING/web/Cart.jsp</file>
+            <file>file:/C:/Users/Nguyen%20Duc%20Tuan/OneDrive/Documents/NetBeansProjects/PROJECT_PRJ301_SHOPPING/src/java/dal/DAO.java</file>
+            <file>file:/C:/Users/Nguyen%20Duc%20Tuan/OneDrive/Documents/NetBeansProjects/PROJECT_PRJ301_SHOPPING/src/java/controller/CategoriesServelet.java</file>
+            <file>file:/C:/Users/Nguyen%20Duc%20Tuan/OneDrive/Documents/NetBeansProjects/PROJECT_PRJ301_SHOPPING/web/css/manager.css</file>
+            <file>file:/C:/Users/Nguyen%20Duc%20Tuan/OneDrive/Documents/NetBeansProjects/PROJECT_PRJ301_SHOPPING/src/java/dal/DBContext.java</file>
+            <file>file:/C:/Users/Nguyen%20Duc%20Tuan/OneDrive/Documents/NetBeansProjects/PROJECT_PRJ301_SHOPPING/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/Nguyen%20Duc%20Tuan/OneDrive/Documents/NetBeansProjects/PROJECT_PRJ301_SHOPPING/src/java/controller/HomeServlet.java</file>
+            <file>file:/C:/Users/Nguyen%20Duc%20Tuan/OneDrive/Documents/NetBeansProjects/PROJECT_PRJ301_SHOPPING/web/css/detail.css</file>
+            <file>file:/C:/Users/Nguyen%20Duc%20Tuan/OneDrive/Documents/NetBeansProjects/PROJECT_PRJ301_SHOPPING/src/java/controller/SearchServlet.java</file>
+            <file>file:/C:/Users/Nguyen%20Duc%20Tuan/OneDrive/Documents/NetBeansProjects/PROJECT_PRJ301_SHOPPING/src/java/controller/ManagerServlet.java</file>
+            <file>file:/C:/Users/Nguyen%20Duc%20Tuan/OneDrive/Documents/NetBeansProjects/PROJECT_PRJ301_SHOPPING/web/Left.jsp</file>
+            <file>file:/C:/Users/Nguyen%20Duc%20Tuan/OneDrive/Documents/NetBeansProjects/PROJECT_PRJ301_SHOPPING/web/ManagerProduct.jsp</file>
+            <file>file:/C:/Users/Nguyen%20Duc%20Tuan/OneDrive/Documents/NetBeansProjects/PROJECT_PRJ301_SHOPPING/src/java/controller/LogOutServlet.java</file>
+            <file>file:/C:/Users/Nguyen%20Duc%20Tuan/OneDrive/Documents/NetBeansProjects/PROJECT_PRJ301_SHOPPING/web/js/manager.js</file>
+            <file>file:/C:/Users/Nguyen%20Duc%20Tuan/OneDrive/Documents/NetBeansProjects/PROJECT_PRJ301_SHOPPING/src/java/controller/LoginServlet.java</file>
+            <file>file:/C:/Users/Nguyen%20Duc%20Tuan/OneDrive/Documents/NetBeansProjects/PROJECT_PRJ301_SHOPPING/src/java/controller/SignUpServlet.java</file>
+            <file>file:/C:/Users/Nguyen%20Duc%20Tuan/OneDrive/Documents/NetBeansProjects/PROJECT_PRJ301_SHOPPING/web/Home.jsp</file>
+            <file>file:/C:/Users/Nguyen%20Duc%20Tuan/OneDrive/Documents/NetBeansProjects/PROJECT_PRJ301_SHOPPING/web/Menu.jsp</file>
+            <file>file:/C:/Users/Nguyen%20Duc%20Tuan/OneDrive/Documents/NetBeansProjects/PROJECT_PRJ301_SHOPPING/src/java/controller/DeleteServlet.java</file>
+            <file>file:/C:/Users/Nguyen%20Duc%20Tuan/OneDrive/Documents/NetBeansProjects/PROJECT_PRJ301_SHOPPING/web/META-INF/context.xml</file>
+            <file>file:/C:/Users/Nguyen%20Duc%20Tuan/OneDrive/Documents/NetBeansProjects/PROJECT_PRJ301_SHOPPING/src/java/model/Categories.java</file>
+            <file>file:/C:/Users/Nguyen%20Duc%20Tuan/OneDrive/Documents/NetBeansProjects/PROJECT_PRJ301_SHOPPING/web/css/style.css</file>
+            <file>file:/C:/Users/Nguyen%20Duc%20Tuan/OneDrive/Documents/NetBeansProjects/PROJECT_PRJ301_SHOPPING/src/java/controller/DetailServlet.java</file>
+            <file>file:/C:/Users/Nguyen%20Duc%20Tuan/OneDrive/Documents/NetBeansProjects/PROJECT_PRJ301_SHOPPING/src/java/model/Products.java</file>
+            <file>file:/C:/Users/Nguyen%20Duc%20Tuan/OneDrive/Documents/NetBeansProjects/PROJECT_PRJ301_SHOPPING/src/java/model/Accounts.java</file>
+        </group>
+    </open-files>
+</project-private>
